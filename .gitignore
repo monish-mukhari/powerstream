@@ -1,0 +1,9 @@
+node_modules/
+.npm-cache/
+.next/
+dist/
+.env
+*.log
+coverage/
+.DS_Store
+worker-tmp/
